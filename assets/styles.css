@@ -1,19 +1,35 @@
 .box {
     width: 200px;
-    height: 50px
+    height: 50px;
 }
 
 .textbox {
     width: 250px;
-    height: 250px
+    height: 250px;
 }
 
-.box-blue {
-    color: white;
-    background-color: darkblue;
+.box-highlight {
+    color: black;
+    background-color: #fffacd;
+}
+
+.font {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
 #contact {
     color: antiquewhite;
     background-color: cadetblue;
+}
+
+#fb {
+    font-weight: bold;
+}
+
+#fs {
+    font-size: 24px;
+}
+
+#line-height {
+    line-height: 50px;
 }
